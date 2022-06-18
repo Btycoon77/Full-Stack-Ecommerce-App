@@ -1,0 +1,19 @@
+git config --global user.name Ram
+
+git config --global user.email btycoon77@gmail.com
+
+git init
+
+git add .
+
+git commit -m "Initial Commit"
+
+git status #Just to see
+
+ssh -keygen -t rsa -b 4096 -C "btycoon77@gmail.com"
+
+tail <path to id _rsa.pub>  # Add this key to your github account
+
+git remote add origin <ssh url.git>
+
+git push  origin master
