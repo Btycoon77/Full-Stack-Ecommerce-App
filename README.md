@@ -1,5 +1,6 @@
 # MERN-E-commerce
+A full stack ecommerce website created with MERN 
 for frontend - ReactJs
 for backend - expressJS NodeJS MongoDb
-cloudinary and JWT authentication
-Stripe payment gateway
+(Cloudinary and JWT authentication AND
+Stripe payment gateway)
