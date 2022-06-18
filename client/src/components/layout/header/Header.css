@@ -1,0 +1,22 @@
+.speedDial {
+    position: fixed;
+    right: 3vmax;
+    top: 3vmax;
+    border: none;
+    border-radius: 50%;
+  }
+  
+  .speedDialIcon {
+    width: 56px;
+    height: 56px;
+    border-radius: 100%;
+  }
+  .bx{
+      display: flex;
+      height: 500px; 
+      width: 500px;
+      border: 1px solid transparent;
+      border-radius: 50%;
+      justify-content: center;
+      align-items: center;
+  }
